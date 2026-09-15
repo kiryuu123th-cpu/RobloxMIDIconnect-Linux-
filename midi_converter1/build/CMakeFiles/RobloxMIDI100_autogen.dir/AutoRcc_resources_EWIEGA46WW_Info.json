@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/toui/midi_converter1/build/RobloxMIDI100_autogen",
+	"CMAKE_BINARY_DIR" : "/home/toui/midi_converter1/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/toui/midi_converter1/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/toui/midi_converter1",
+	"CMAKE_SOURCE_DIR" : "/home/toui/midi_converter1",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/toui/midi_converter1/build/RobloxMIDI100_autogen/include",
+	"INPUTS" : [ "/home/toui/midi_converter1/icon.png" ],
+	"LOCK_FILE" : "/home/toui/midi_converter1/build/CMakeFiles/RobloxMIDI100_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/toui/midi_converter1/build/CMakeFiles/RobloxMIDI100_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/toui/midi_converter1/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

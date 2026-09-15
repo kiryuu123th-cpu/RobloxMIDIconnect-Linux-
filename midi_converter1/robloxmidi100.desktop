@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=RobloxMIDI100
+Exec=/path/to/your/robloxmidi100
+Icon=/path/to/your/icon.png
+Terminal=false
+Categories=Utility;Audio;
